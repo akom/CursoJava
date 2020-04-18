@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
-public class secao5_e01 {
-	
+public class Secao5_e02 {
+
 	public static void main(String[] args) {
 		
 		Scanner sc = new Scanner(System.in);
@@ -10,11 +10,11 @@ public class secao5_e01 {
 		
 		sc.close();
 		
-		if ( a < 0 ) {
-			System.out.println("NEGATIVO");
+		if( a % 2 == 0) {
+			System.out.println("PAR");
 		} else {
-			System.out.println("NAO NEGATIVO");
+			System.out.println("IMPAR");
 		}
+		
 	}
-
 }

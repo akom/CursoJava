@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class secao5_e03 {
+public class Secao5_e03 {
 	
 	public static void main(String[] args) {
 		
