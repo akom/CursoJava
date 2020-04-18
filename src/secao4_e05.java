@@ -11,8 +11,8 @@ public class secao4_e05 {
 		int numeroPeca1;
 		int numeroPeca2;
 		double valorUPeca1;
-	    double valorUPeca2;
-	    double valorTotal;
+		double valorUPeca2;
+		double valorTotal;
 		
 		codigoPeca1 = sc.nextInt();
 		numeroPeca1 = sc.nextInt();
