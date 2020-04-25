@@ -3,7 +3,7 @@ package application;
 import entities.Student;
 import java.util.Scanner;
 
-public class ProgramS8_e03 {
+public class ProgramS08_e03 {
 
 	public static void main(String[] args) {
 		

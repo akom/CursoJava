@@ -3,7 +3,7 @@ package application;
 import java.util.Scanner;
 import util.CurrencyConverter;
 
-public class ProgramS8_e04 {
+public class ProgramS08_e04 {
 
 	public static void main(String[] args) {
 		

@@ -3,7 +3,7 @@ package application;
 import entities.Rectangle;
 import java.util.Scanner;
 
-public class ProgramS8_e01 {
+public class ProgramS08_e01 {
 
 	public static void main(String[] args) {
 		

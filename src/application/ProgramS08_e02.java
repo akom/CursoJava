@@ -3,7 +3,7 @@ package application;
 import java.util.Scanner;
 import entities.Employee;
 
-public class ProgramS8_e02 {
+public class ProgramS08_e02 {
 
 	public static void main(String[] args) {
 		
